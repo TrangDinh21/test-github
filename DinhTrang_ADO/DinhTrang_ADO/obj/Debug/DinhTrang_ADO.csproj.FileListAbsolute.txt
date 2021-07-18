@@ -1,0 +1,10 @@
+D:\1_Lap trinh Window\DinhTrang_ADO\DinhTrang_ADO\bin\Debug\DinhTrang_ADO.exe.config
+D:\1_Lap trinh Window\DinhTrang_ADO\DinhTrang_ADO\bin\Debug\DinhTrang_ADO.exe
+D:\1_Lap trinh Window\DinhTrang_ADO\DinhTrang_ADO\bin\Debug\DinhTrang_ADO.pdb
+D:\1_Lap trinh Window\DinhTrang_ADO\DinhTrang_ADO\obj\Debug\DinhTrang_ADO.csprojAssemblyReference.cache
+D:\1_Lap trinh Window\DinhTrang_ADO\DinhTrang_ADO\obj\Debug\DinhTrang_ADO.Form1.resources
+D:\1_Lap trinh Window\DinhTrang_ADO\DinhTrang_ADO\obj\Debug\DinhTrang_ADO.Properties.Resources.resources
+D:\1_Lap trinh Window\DinhTrang_ADO\DinhTrang_ADO\obj\Debug\DinhTrang_ADO.csproj.GenerateResource.cache
+D:\1_Lap trinh Window\DinhTrang_ADO\DinhTrang_ADO\obj\Debug\DinhTrang_ADO.csproj.CoreCompileInputs.cache
+D:\1_Lap trinh Window\DinhTrang_ADO\DinhTrang_ADO\obj\Debug\DinhTrang_ADO.exe
+D:\1_Lap trinh Window\DinhTrang_ADO\DinhTrang_ADO\obj\Debug\DinhTrang_ADO.pdb
